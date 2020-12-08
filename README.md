@@ -4,17 +4,10 @@
 
 **Yelp clone** displays a list of search results from the Yelp API and displays the results in a scrollable list. 
 
-Time spent: **2** hours spent in total
-
 ## Functionality 
-
-The following **required** functionality is completed:
 
 * [x] Ability to query the Yelp API to get results from a search query
 * [x] The search results are displayed in a RecyclerView
-
-The following **extensions** are implemented:
-
 * [x] Program prints a message in the backend if user is not connected to the internet and returns without attempting to connect to the Yelp API service.
 
 ## Image
